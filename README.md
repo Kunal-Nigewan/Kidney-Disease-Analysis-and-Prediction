@@ -36,7 +36,7 @@ The models were evaluated using:
 - Confusion Matrix
 - ROC-AUC Curve
 
-##Key Findings
+## Key Findings
 - Medical features such as packed cell volume, hemoglobin, and serum creatinine showed strong relationships with CKD.
 - Random Forest performed better than Logistic Regression.
 - ROC-AUC scores indicated strong classification performance.

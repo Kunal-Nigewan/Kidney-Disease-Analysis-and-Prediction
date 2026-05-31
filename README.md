@@ -1,5 +1,10 @@
 # Chronic Kidney Disease Prediction using Machine Learning
 
+## Note 
+f the notebook preview does not load on
+Github, please open it in Google Colab using the link below. 
+Google Colab : https://githubtocolab.com/Kunal-Nigewan/Kidney-Disease-Analysis-and-Prediction/blob/main/chronic_kidney_disease_analysis.ipynb
+
 ## Project Overview
 This project analyzes Chronic Kidney Disease (CKD) patient data using Exploratory Data Analysis (EDA) and Machine Learning techniques.
 The goal of the project is to predict whether a patient has CKD based on medical attributes.
